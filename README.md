@@ -2,7 +2,7 @@
 圣僧|苏菲亚 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">记录精彩的人生</h4>
 <p align="center"><a title="圣僧|苏菲亚 的个人博客" target="_blank" href="https://github.com/jy83215051/solo-blog"><img src="https://img.shields.io/github/last-commit/jy83215051/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/jy83215051/solo-blog"><img src="https://img.shields.io/github/repo-size/jy83215051/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Spring Security](http://www.zjjqc.top:8080/articles/2019/11/14/1573738640726.html)
+* [Java基础](http://www.zjjqc.top:8080/articles/2019/11/14/1573737864015.html)
 * [Mybatis多表查询  ](http://www.zjjqc.top:8080/articles/2019/11/13/1573612599040.html)
 * [世界，你好！](http://www.zjjqc.top:8080/hello-solo)
 
