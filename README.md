@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.zjjqc.top:8080/my-github-repos)
 * [Spring Security](http://www.zjjqc.top:8080/articles/2019/11/14/1573738640726.html)
 * [Java基础](http://www.zjjqc.top:8080/articles/2019/11/14/1573737864015.html)
 * [Mybatis多表查询  ](http://www.zjjqc.top:8080/articles/2019/11/13/1573612599040.html)
