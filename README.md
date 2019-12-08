@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.zjjqc.top/my-github-repos)
 * [ssm+spring security + dubbo + zookeeper项目搭建](http://www.zjjqc.top/articles/2019/12/06/1575612781086.html)
 
 
