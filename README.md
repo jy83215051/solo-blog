@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [JavaScript基础 ](http://www.zjjqc.top/articles/2019/12/12/1576127284224.html)
+* [MySql数据库基础1-1](http://www.zjjqc.top/articles/2019/12/12/1576127007266.html)
+* [MySql数据库基础](http://www.zjjqc.top/articles/2019/12/12/1576126773087.html)
 * [Spring Boot](http://www.zjjqc.top/articles/2019/12/09/1575861748343.html)
 * [消息队列](http://www.zjjqc.top/articles/2019/12/09/1575861100561.html)
 * [ssm+spring security + dubbo + zookeeper项目搭建](http://www.zjjqc.top/articles/2019/12/06/1575612781086.html)
